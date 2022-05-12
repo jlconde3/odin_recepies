@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+#title{
+  color:white;
+  text-align: center;
+}
+
+ul{
+  list-style-type: square;
+}
